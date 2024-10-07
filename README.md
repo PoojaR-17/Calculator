@@ -2,7 +2,7 @@
 A basic Calculator design using HTML and CSS
 
 This is a simple web-based calculator app built using HTML, CSS
-ScreenShot:[https://github.com/PoojaR-17/Calculator/blob/main/Calculator.png]
+[Calculator]:(https://github.com/PoojaR-17/Calculator/blob/main/Calculator.png)
 
 ## Features
 

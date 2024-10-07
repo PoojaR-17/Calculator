@@ -1,7 +1,8 @@
 # Calculator
 A basic Calculator design using HTML and CSS
 
-This is a simple web-based calculator app built using HTML, CSS, and JavaScript. The calculator allows basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a simple web-based calculator app built using HTML, CSS
+ScreenShot:[https://github.com/PoojaR-17/Calculator/blob/main/Calculator.png]
 
 ## Features
 

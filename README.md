@@ -34,7 +34,7 @@ How to Run Locally
 Download or clone the repository using the command:
 bash
 Copy code
-git clone <repository-url>
+git clone https://github.com/PoojaR-17/Calculator
 Open the project folder and run index.html in any browser:
 Right-click on the index.html file and select Open with > Your Preferred Browser.
 Future Enhancements
